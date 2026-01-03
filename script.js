@@ -22,7 +22,8 @@ const database = firebase.database();
 
 /* ================= GEMINI CONFIG ================= */
 const API_KEY = "AIzaSyCnq5BKLKHQLNzmp0oLBdKBnltOkHQ1PJY";
-const MODEL = "gemini-1.5-flash";
+const MODEL = "gemini-1.5-flash-latest";
+
 
 
 /* ================= ELEMENTS ================= */
